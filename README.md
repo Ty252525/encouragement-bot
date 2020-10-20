@@ -1,1 +1,1 @@
-# hacktoberfest
+# encouragement bot
